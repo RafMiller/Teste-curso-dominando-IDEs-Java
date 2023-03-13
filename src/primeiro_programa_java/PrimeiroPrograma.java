@@ -9,6 +9,7 @@ public class PrimeiroPrograma {
 		
 		System.out.println(gato);
 		System.out.println(livros);
+		System.out.println(livros);
 
 		/*int a = 2;
 			int b = 3;
